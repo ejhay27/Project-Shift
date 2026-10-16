@@ -1,0 +1,28 @@
+{
+  "recipes": [
+    {
+      "recipeId": "craft.stone_axe",
+      "station": "workbench.basic",
+      "inputs": [{"itemId": "wood.oak", "count": 3}, {"itemId": "stone.common", "count": 2}],
+      "outputs": [{"itemId": "tool.stone_axe", "count": 1}]
+    },
+    {
+      "recipeId": "craft.copper_wire",
+      "station": "workbench.basic",
+      "inputs": [{"itemId": "ore.copper", "count": 2}],
+      "outputs": [{"itemId": "part.wire", "count": 3}]
+    },
+    {
+      "recipeId": "cook.grilled_fish",
+      "station": "campfire",
+      "inputs": [{"itemId": "food.fish_raw", "count": 1}],
+      "outputs": [{"itemId": "food.grilled_fish", "count": 1}]
+    },
+    {
+      "recipeId": "craft.cloth_bundle",
+      "station": "workbench.basic",
+      "inputs": [{"itemId": "fiber.plant", "count": 4}],
+      "outputs": [{"itemId": "fabric.cloth", "count": 2}]
+    }
+  ]
+}

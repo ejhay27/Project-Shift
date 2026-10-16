@@ -1,0 +1,16 @@
+{
+    "name": "ProjectShift.Game",
+    "rootNamespace": "ProjectShift.Game",
+    "references": [
+        "ProjectShift.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {"id": "wood.oak", "displayName": "Oak Wood", "category": "material.wood", "stackLimit": 99, "description": "Sturdy common timber for basic construction."},
+    {"id": "wood.heart", "displayName": "Worldheart Timber", "category": "material.worldheart", "stackLimit": 20, "description": "Extremely rare living timber from the World Tree."},
+    {"id": "stone.common", "displayName": "Common Stone", "category": "material.stone", "stackLimit": 99, "description": "Basic building stone."},
+    {"id": "ore.copper", "displayName": "Copper Ore", "category": "material.ore", "stackLimit": 99, "description": "Surface ore for wiring and basic components."},
+    {"id": "ore.iron", "displayName": "Iron Ore", "category": "material.ore", "stackLimit": 99, "description": "Workhorse metal for tools and reinforced builds."},
+    {"id": "ore.coal", "displayName": "Coal", "category": "material.fuel", "stackLimit": 99, "description": "Fuel for furnaces and generators."},
+    {"id": "ore.silver", "displayName": "Silver Ore", "category": "material.ore", "stackLimit": 50, "description": "Underground precious metal."},
+    {"id": "ore.gold", "displayName": "Gold Ore", "category": "material.ore", "stackLimit": 50, "description": "Underground precious metal for advanced tech."},
+    {"id": "fiber.plant", "displayName": "Plant Fiber", "category": "material.fiber", "stackLimit": 99, "description": "Basic crafting fiber."},
+    {"id": "fabric.cloth", "displayName": "Cloth", "category": "material.fabric", "stackLimit": 99, "description": "Salvaged and crafted cloth."},
+    {"id": "scrap.metal", "displayName": "Metal Scrap", "category": "material.scrap", "stackLimit": 99, "description": "Salvaged metal bits."},
+    {"id": "part.wire", "displayName": "Copper Wire", "category": "part.electrical", "stackLimit": 50, "description": "Basic wiring component."},
+    {"id": "part.battery", "displayName": "Battery Cell", "category": "part.electrical", "stackLimit": 20, "description": "Portable power storage."},
+    {"id": "food.berries", "displayName": "Wild Berries", "category": "food.raw", "stackLimit": 50, "description": "Edible berries; restores a little hunger."},
+    {"id": "food.fish_raw", "displayName": "Raw Fish", "category": "food.raw", "stackLimit": 20, "description": "Fresh-caught fish. Cook before eating."},
+    {"id": "food.grilled_fish", "displayName": "Grilled Fish", "category": "food.cooked", "stackLimit": 20, "description": "Stamina recovery benefit."},
+    {"id": "tool.stone_axe", "displayName": "Stone Axe", "category": "tool", "stackLimit": 1, "description": "Tier-0 harvesting tool."}
+  ]
+}

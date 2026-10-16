@@ -1,0 +1,9 @@
+{
+  "nodes": [
+    {"nodeId": "tree.oak.01", "resourceId": "wood.oak", "yieldMin": 2, "yieldMax": 4, "requiredToolTier": 0, "respawnMinutes": 10.0, "regionId": "prototype.meadow"},
+    {"nodeId": "tree.oak.02", "resourceId": "wood.oak", "yieldMin": 2, "yieldMax": 4, "requiredToolTier": 0, "respawnMinutes": 10.0, "regionId": "prototype.meadow"},
+    {"nodeId": "stone.01", "resourceId": "stone.common", "yieldMin": 2, "yieldMax": 3, "requiredToolTier": 0, "respawnMinutes": 10.0, "regionId": "prototype.meadow"},
+    {"nodeId": "stone.02", "resourceId": "stone.common", "yieldMin": 2, "yieldMax": 3, "requiredToolTier": 0, "respawnMinutes": 10.0, "regionId": "prototype.meadow"},
+    {"nodeId": "ore.copper.01", "resourceId": "ore.copper", "yieldMin": 1, "yieldMax": 3, "requiredToolTier": 0, "respawnMinutes": 15.0, "regionId": "prototype.meadow"}
+  ]
+}

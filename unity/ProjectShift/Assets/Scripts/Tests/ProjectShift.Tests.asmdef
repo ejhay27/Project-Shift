@@ -1,0 +1,21 @@
+{
+    "name": "ProjectShift.Tests",
+    "rootNamespace": "ProjectShift.Tests",
+    "references": [
+        "ProjectShift.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

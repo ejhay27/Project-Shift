@@ -1,0 +1,8 @@
+# Unity YAML smart-merge for scenes and prefabs
+*.unity merge=unityyamlmerge text eol=lf
+*.prefab merge=unityyamlmerge text eol=lf
+*.asset merge=unityyamlmerge text eol=lf
+*.meta text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.cs text eol=lf diff=csharp

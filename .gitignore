@@ -1,5 +1,4 @@
-# ---- PROJECT: SHIFT (Unity 6 / Android) ----
-# Unity generated folders
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -7,8 +6,6 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-MemoryCaptures/
-UserSettings/
 *.csproj
 *.unityproj
 *.sln
@@ -22,32 +19,4 @@ UserSettings/
 *.mdb
 *.opendb
 *.VC.db
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-crashlytics-build.properties
 
-# Android build outputs and signing (never commit keystores)
-*.apk
-*.aab
-*.apks
-*.keystore
-*.jks
-local.properties
-gradle-app.setting
-.gradle/
-.idea/
-.vscode/
-*.log
-
-# Generated Unity Android exports
-[Ee]xport/
-unityLibrary/
-*.gradle.kts.bak
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Large generated media (keep source artwork in LFS or external storage if added later)
-*.psd.bak

@@ -1,0 +1,24 @@
+name: Validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  static-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate feature registry
+        run: python3 tools/validate_registry.py
+      - name: Validate game data
+        run: python3 tools/validate_data.py
+      - name: C# static checks
+        run: python3 tools/check_csharp.py
+
+  # Unity compile + EditMode tests + Android build are intentionally not run
+  # here: they require a Unity license secret and Android modules.
+  # See docs/06_BUILD_ENVIRONMENT.md. Enable on project infrastructure in M1.
